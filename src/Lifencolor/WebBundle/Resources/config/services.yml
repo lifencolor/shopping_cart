@@ -1,0 +1,4 @@
+services:
+#    lifencolor_web.example:
+#        class: Lifencolor\WebBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

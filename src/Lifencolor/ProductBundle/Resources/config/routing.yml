@@ -1,0 +1,3 @@
+lifencolor_product_homepage:
+    path:     /
+    defaults: { _controller: LifencolorProductBundle:Default:index }

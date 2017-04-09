@@ -1,0 +1,4 @@
+services:
+#    lifencolor_user.example:
+#        class: Lifencolor\UserBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

@@ -1,0 +1,12 @@
+lifencolor_web:
+    resource: "@LifencolorWebBundle/Resources/config/routing.yml"
+    prefix:   /
+
+lifencolor_product:
+    resource: "@LifencolorProductBundle/Resources/config/routing.yml"
+    prefix:   /
+
+lifencolor_user:
+    resource: "@LifencolorUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
